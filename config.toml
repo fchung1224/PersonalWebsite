@@ -77,6 +77,11 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "fchung@macalester.edu"
 
+[[params.socialIcons]]
+icon = "fas fa-file"
+title = "resume"
+url = "https://drive.google.com/file/d/14FSd26evoh24jxEAq3ttFCEdwtYYny-l/view?usp=sharing"
+
 ## Menu items
 
 [menu]
