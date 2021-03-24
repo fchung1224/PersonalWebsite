@@ -23,7 +23,7 @@ title = "I'm Federico Chung"
 author = "Federico Chung"
 #copyright = "2020-2021"
 description = "Call me Fed"
-profilePicture = ["images/linkedin.jpeg"]
+profilePicture = ["images/profile.jpg"]
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
