@@ -75,7 +75,7 @@ url = "https://www.instagram.com/fchung1224"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "fchung@macalester.edu"
+e-mail = "fchung@macalester.edu"
 
 [[params.socialIcons]]
 icon = "fas fa-file"
