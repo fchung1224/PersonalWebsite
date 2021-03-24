@@ -23,7 +23,7 @@ title = "I'm Federico Chung"
 author = "Federico Chung"
 #copyright = "2020-2021"
 description = "Call me Fed"
-profilePicture = "images/linkedin.jpeg"
+profilePicture = ["images/linkedin.jpeg"]
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -60,12 +60,12 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://https://www.linkedin.com/in/federico-chung-351623163/"
+url = "https://www.linkedin.com/in/federico-chung-351623163/"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://https://www.github.com/fchung1224/"
+url = "https://www.github.com/fchung1224/"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
