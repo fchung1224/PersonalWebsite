@@ -60,17 +60,17 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://www.linkedin.com/in/federico-chung-351623163/"
+url = "https://www.linkedin.com/in/federico-chung-351623163"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://www.github.com/fchung1224/"
+url = "https://www.github.com/fchung1224"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/fchung1224/"
+url = "https://www.instagram.com/fchung1224"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
